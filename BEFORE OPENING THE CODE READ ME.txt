@@ -1,1 +1,4 @@
-In order for this code to be run, it must be written in a development environment such as Visual Studio Code that supports the Python programming language and executed through the relevant environment.Some of the Python libraries come ready-made, you can run the others by typing "pip install tkintermapview Pillow requests matplotlib mplcursors tkcalendar" into the terminal.
+In order for this code to be run, it must be written in a development environment such as 
+Visual Studio Code that supports the Python programming language and executed through the relevant environment.
+Some of the Python libraries come ready-made, you can run the others by typing 
+"pip install tkintermapview Pillow requests matplotlib mplcursors tkcalendar" into the terminal.
